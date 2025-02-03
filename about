@@ -1,0 +1,20 @@
+<h2> <span class="userConsole"> ~/ttvm </span> <span class="prompts"> >> </span> <span class = "page-title"> About </span></h2>
+Hello world, I am a Web developer from <span style = "color:orange">In</span><span style = "color:#4fc3f7">d</span><span style = "color:#66bb6a">ia</span>.
+
+I am a final year Computer Science undergrad, however, I have been coding for more than five years. And I love to code, and make cool things with code.
+
+My love for computers began when I saw my elder brother make cool things with code. 💻
+
+Presently, my main interests lie in Web development and MERN stack , but I also enjoy working on AI/ML and Robotics related things.
+
+My other interests include:👀
+
+football (<span style = "color:#4ba3c7">força</span> <span style = "color:#ff8080">barça</span>)🔵🔴
+
+reading 📖
+
+I love coffee🧋
+
+video games (try beating me at Brawlhalla or Valorant). 🎮
+
+You can check out some of my <a href = "projects.html" class="websites">projects</a>,  <a href = "experience.html" class="websites">experience</a>, or  <a href = "contact.html" class="websites"> contact </a> me.

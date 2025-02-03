@@ -1,0 +1,14 @@
+<h2> <span class="userConsole"> ~/ttvm </span> <span class="prompts"> >> </span> <span class = "page-title"> Projects </span> </h2>
+Here's a list of my most recent projects. You can find these and many, many more on my <a href = "https://github.com/tattvam03" target="_blank" class="websites"> GitHub. </a>
+
+<!-- <h3 class = "project-completed"> Twitter replica:🔵 </h3> I have developed a Twitter replica using React.js for the frontend, with MongoDB, Node.js, and Express.js for the backend. This project includes core features like user authentication, tweet posting, and real-time updates, closely mimicking the original Twitter experience. -->
+
+<h3 class = "project-completed"> Spy drone:🎮 </h3> I built a "Spy Drone" entirely from scratch, focusing on compactness and stealth. It's designed to be both very small and extremely quiet, perfect for discreet operations.
+
+<h3 class = "project-completed"> Raag recognition:🎶 </h3> In this work, I implement ML, DL, and other techniques for raag identification. I apply these techniques to the Bhatkhande North Indian Classical Music Dataset and conduct a comparative analysis by evaluating the performance of each technique.
+
+<h3 class = "project-completed"> Library Management System🏢 </h3> Developed a robust Library Management System primarily leveraging PHP and SQL, ensuring efficient organisation and retrieval of library resources. Implemented a user-friendly interface for seamless interaction and enhanced user experience.
+
+<h3 class = "project-completed"> A fighter bot:🚗 </h3> I built a fighter bot car specifically for car battles, and it performed so well that I won the match with it. It's designed for strength and agility in combat. 
+
+<h3 class = "project-completed"> Face & eye recognition system:👨👀 </h3> I developed a Face & Eye Recognition System that precisely detects and identifies both facial features and eye patterns. It enhances security by providing detailed biometric authentication. 
